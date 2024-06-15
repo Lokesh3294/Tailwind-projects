@@ -1,0 +1,14 @@
+Tailwind css:-
+
+-> The tailwind is also similar to the bootstrap where the bootstrap css is a component based css
+and the tailwind css is utility based css.
+
+Component based css:-
+-> The component based css generally represents that we can perform different property by writing
+one class.
+
+Utility based css:-
+-> where as in utility based css we write each classes for the each property we used to style.
+
+Installation of tailwind css:
+-> we are gonna install the tailwind using the cdn links.
